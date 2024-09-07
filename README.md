@@ -1,5 +1,5 @@
   ![LOGO](https://github.com/AJITHCHANDRA-07/AJITHCHANDRA-07/blob/main/GITIMAGE.png)
-
+  ![logo](https://github.com/AJITHCHANDRA-07/AJITHCHANDRA-07/blob/main/ai-tech.webp)
 <h1 align="center">Hi ,I'm AJITHCHANDRA
 <h3 align="center">A passionate frontend, Backend developer and Working on AI-based tools has transformed my professional approach by integrating cutting-edge technology from India.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif"/>
