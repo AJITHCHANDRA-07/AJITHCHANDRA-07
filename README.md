@@ -1,5 +1,4 @@
-
-  ![logo](https://plus.unsplash.com/premium_photo-1683121710572-7723bd2e235d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGFpfGVufDB8fDB8fHwx)
+![logo](https://plus.unsplash.com/premium_photo-1683121710572-7723bd2e235d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGFpfGVufDB8fDB8fHwx)
 <h1 align="center">Hi ,I'm AJITHCHANDRA
 <h3 align="center">A passionate frontend, Backend developer, AI Annotator, and Python Developer skilled in building responsive UIs, annotating AI datasets, and developing intelligent solutions. Efficiently manages workflows with active use of AI tools for streamlined and high-impact project execution.</h3>
 <img align="right" alt="coding" width="600" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif"/>
@@ -23,7 +22,7 @@
 <a href="https://instagram.com/ajithchandra_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajithchandra_07" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/successkahub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="successkahub" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ajithchandra07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ajithchandra07" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ajithchandra752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajithchandra752" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/ajithchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajithchandra" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nimmala-ajithchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nimmala-ajithchandra" height="30" width="40" /></a>
 </p>
 
@@ -35,7 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajithchandra-07&show_icons=true&locale=en" alt="ajithchandra-07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajithchandra-07&" alt="ajithchandra-07" /></p>
-
-
-
-
