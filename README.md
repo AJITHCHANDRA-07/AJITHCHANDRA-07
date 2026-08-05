@@ -28,7 +28,7 @@ Everything lives here → **[github.com/AJITHCHANDRA-07](https://github.com/AJIT
 Projects worth building, AI tooling, or automation workflows — happy to talk shop.
 
 ### 📫 Reach me
-ajithchandranimmala2004@gmail.com
+ajithchandraan07@gmail.com
 
 ### ⚡ Fun fact
 Be calm. Ship anyway.
